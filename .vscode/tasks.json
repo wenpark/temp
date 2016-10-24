@@ -8,7 +8,7 @@
     "tasks": [
         {
             "taskName": "run",
-            "args": ["${workspaceRoot}/src/watch.go","-p","/home/wen/ptest"],
+            "args": ["${workspaceRoot}/src/imageWatcher.go","-p","/home/wen/ptest"],
             "isBuildCommand": true
         }
     ]
